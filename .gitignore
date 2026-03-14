@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+travel_app.db
+.idea/
+.DS_Store
